@@ -18,7 +18,7 @@ dependencies:
   custom_navigation_drawer:
   
   
-  flutter_vlc_player: ^2.0.0
+ 
   carousel_slider:
   bottom_navy_bar: ^5.4.0
   expandable_card: ^0.0.3+1

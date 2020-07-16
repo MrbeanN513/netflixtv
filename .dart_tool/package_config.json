@@ -110,12 +110,6 @@
       "languageVersion": "2.1"
     },
     {
-      "name": "cryptoutils",
-      "rootUri": "file:///home/kodachi/.pub-cache/hosted/pub.dartlang.org/cryptoutils-0.4.0",
-      "packageUri": "lib/",
-      "languageVersion": "2.0"
-    },
-    {
       "name": "csslib",
       "rootUri": "file:///home/kodachi/.pub-cache/hosted/pub.dartlang.org/csslib-0.16.1",
       "packageUri": "lib/",
@@ -222,12 +216,6 @@
       "rootUri": "file:///home/kodachi/flutter/packages/flutter_test",
       "packageUri": "lib/",
       "languageVersion": "2.2"
-    },
-    {
-      "name": "flutter_vlc_player",
-      "rootUri": "file:///home/kodachi/.pub-cache/hosted/pub.dartlang.org/flutter_vlc_player-2.0.0",
-      "packageUri": "lib/",
-      "languageVersion": "2.1"
     },
     {
       "name": "flutter_web_plugins",
@@ -560,7 +548,7 @@
       "languageVersion": "2.1"
     }
   ],
-  "generated": "2020-07-16T12:16:16.043416Z",
+  "generated": "2020-07-16T12:24:25.421831Z",
   "generator": "pub",
   "generatorVersion": "2.8.4"
 }
