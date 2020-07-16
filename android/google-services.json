@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "893994206112",
+    "firebase_url": "https://kandy-f9448.firebaseio.com",
+    "project_id": "kandy-f9448",
+    "storage_bucket": "kandy-f9448.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893994206112:android:e57a0888d3178c62181ac5",
+        "android_client_info": {
+          "package_name": "com.example.kandy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "893994206112-0hc3kaou70dk7ever38s3sj9d3oot4ln.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZES1G4LVruVBpmEm8UB_9q74oVzM8Ey0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "893994206112-0hc3kaou70dk7ever38s3sj9d3oot4ln.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
