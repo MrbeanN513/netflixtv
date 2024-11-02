@@ -4,39 +4,34 @@ description: A new Flutter application.
 version: 1.0.0+1
 
 environment:
-  sdk: ">=2.1.0 <3.0.0"
+   sdk: ^3.5.4
 
 dependencies:
   flutter:
     sdk: flutter
   flick_video_player:
-  flutter_widgets: ^0.1.12
+  # flutter_widgets: 
   video_player: 
-  provider: 4.0.5
-  cloud_firestore: ^0.13.4+2
-  url_launcher: ^5.4.2
-  custom_navigation_drawer:
-  
-  
- 
+  provider: 
+  cloud_firestore: 
+  url_launcher: 
+  # custom_navigation_drawer:
   carousel_slider:
-  bottom_navy_bar: ^5.4.0
-  expandable_card: ^0.0.3+1
-  cupertino_icons: ^0.1.2
-  font_awesome_flutter: ^8.2.0
-  dio: ^1.0.13
-  folding_cell: ^0.1.2
-  firebase_auth: ^0.14.0+5
-  firebase_database: ^3.0.7
-  cached_network_image: ^2.2.0+1
+  bottom_navy_bar: 
+  # expandable_card: 
+  cupertino_icons: 
+  font_awesome_flutter: 
+  dio: 
+  folding_cell: 
+  firebase_auth: 
+  firebase_database: 
+  cached_network_image: 
   connectivity_widget:
-  firebase_messaging: ^6.0.16 
-  device_id:
+  firebase_messaging: 
+  # device_id:
   network_to_file_image:
-  path_provider:
- 
-  
-  carousel_pro:
+  # path_provider:
+  # carousel_pro:
 
 
 dev_dependencies:
